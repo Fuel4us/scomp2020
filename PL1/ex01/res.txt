@@ -1,0 +1,10 @@
+a)
+
+1. x = 2
+2. x = 0
+3. 0; x = 2
+3. 1234; x = 0
+
+b)
+
+Não pois o processo do filho pode correr o printf da linha 11 antes do pai correr o da linha 9.
